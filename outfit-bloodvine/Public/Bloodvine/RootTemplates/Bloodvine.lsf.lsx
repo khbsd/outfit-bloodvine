@@ -15,7 +15,7 @@
 					<attribute id="ReadinessFlags" type="uint32" value="128" />					
 					<attribute id="Stats" type="FixedString" value="KHB_Armor_Bloodvine_Top" /> Stats for the Armor.txt					
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="f369f4fa-2da7-4693-a147-16cfaf02bca5" /> Points to ARM_Camp_Body
+					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" /> Points to ARM_Camp_Body
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 					<children>
 						<node id="Equipment">
