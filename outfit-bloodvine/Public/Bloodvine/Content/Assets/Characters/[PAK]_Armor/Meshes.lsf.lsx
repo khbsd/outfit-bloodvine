@@ -28,7 +28,7 @@
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/HUM_F_ARM_Bloodvine_Top.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/HUM_F_ARM_Bloodvine_Top.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/HUM_F_ARM_Bloodvine_Top.Dummy_Root" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
