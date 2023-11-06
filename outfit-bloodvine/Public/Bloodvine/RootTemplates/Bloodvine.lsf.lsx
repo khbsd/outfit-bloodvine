@@ -11,7 +11,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="5bc0b178-7d43-4fa5-a933-2e24e714727f" /> Same UUID as in Armor.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_Top" /> Same as Stats
-					<attribute id="ParentTemplateId" type="FixedString" value="f369f4fa-2da7-4693-a147-16cfaf02bca5" />	Points to ARM_Camp_Body.
+					<attribute id="ParentTemplateId" type="FixedString" value="e32488ea-f93d-4318-abe2-69070dc5e026" />	Points to ARM_Camp_Body.
 					<attribute id="ReadinessFlags" type="uint32" value="128" />					
 					<attribute id="Stats" type="FixedString" value="KHB_Armor_Bloodvine_Top" /> Stats for the Armor.txt					
 					<attribute id="Type" type="FixedString" value="item" />
@@ -30,10 +30,10 @@
 								<node id="Visuals">
 									<children>									
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-1fb7-1a911969587f" /> Human_Female
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5a568712-c751-4318-8693-72ee99f75469" /> HUM_F_ARM_RingMail_B_Body_S3M_Shoulder_Left_1A
+													<attribute id="Object" type="FixedString" value="5a568712-c751-4318-8693-72ee99f75469" /> 
 												</node>													
 											</children>
 										</node>												
