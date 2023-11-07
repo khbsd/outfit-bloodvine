@@ -59,6 +59,13 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DRYAD_F_Leaves_Mesh.4" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
 						</node>

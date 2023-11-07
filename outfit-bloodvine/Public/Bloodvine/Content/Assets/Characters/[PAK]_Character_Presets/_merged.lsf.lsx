@@ -8,7 +8,7 @@
 					<attribute id="ID" type="FixedString" value="e305bc63-cd22-4090-8b26-3aa0562aa041" /> This ID is used in MaterialPresetResource
 					<attribute id="Name" type="LSString" value="S3M_Colors_S3M_Armor_StuddedLeather_1A" /> Name is not used, it is just for convenience
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725663" />
-					<children>
+					<!--<children>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
@@ -127,8 +127,8 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Tertiary_Color" /> Very rarely used.
 							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>							
-					</children>
+						</node>						
+					</children>-->	
 				</node>				
 			</children>
 		</node>
