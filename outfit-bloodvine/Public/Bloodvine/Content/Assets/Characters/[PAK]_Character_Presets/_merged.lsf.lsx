@@ -14,63 +14,63 @@
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" /> Should always be True
 							<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
-							<attribute id="Value" type="fvec3" value="0.1061561 0.1036341 0.02422294" /> RGB colors in decimals.
+							<attribute id="Value" type="fvec3" value="1 1 1" /> RGB colors in decimals.
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
-							<attribute id="Value" type="fvec3" value="0.1541523 0.1904629 0.1904629" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
-							<attribute id="Value" type="fvec3" value="0.09868919 0.06772459 0.06772459" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
-							<attribute id="Value" type="fvec3" value="0.2083596 0.151058 0.09151835" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
-							<attribute id="Value" type="fvec3" value="0.151058 0.06575388 0.03287591" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
-							<attribute id="Value" type="fvec3" value="0.1604435 0.1036341 0.05112205" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
-							<attribute id="Value" type="fvec3" value="0.8277258 0.9157501 0.8751376" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
-							<attribute id="Value" type="fvec3" value="0.2801244 0.2631747 0.2468004" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
 							<attribute id="Custom" type="bool" value="False" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
-							<attribute id="Value" type="fvec3" value="0.7686275 0.7686275 0.7686275" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
 						</node>		
 						<node id="ColorPreset">
 							<attribute id="Color" type="bool" value="False" />
