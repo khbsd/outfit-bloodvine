@@ -1,0 +1,3 @@
+todo: 
+	add leaves submesh to lsx files
+	check backface culling on new leaves
