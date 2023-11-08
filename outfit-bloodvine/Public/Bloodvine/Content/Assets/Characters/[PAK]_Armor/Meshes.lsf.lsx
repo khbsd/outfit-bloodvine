@@ -33,13 +33,6 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DRYAD_F_Corset_Mesh.0" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.HUM_F_ARM_Orin_Body_Mesh.1" />
 							<attribute id="Physics" type="FixedString" value="" />
@@ -47,22 +40,29 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="58f11017-9fc6-4757-946d-b5370ef944ae" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DEC_GEN_Corpse_Rose_Left_Mesh.2" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="58f11017-9fc6-4757-946d-b5370ef944ae" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DEC_GEN_Corpse_Rose_Right_Mesh.3" />
+							<attribute id="MaterialID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DRYAD_F_Corset_Mesh.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DRYAD_F_Leaves_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DRYAD_F_Leaves_Mesh.3" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="58f11017-9fc6-4757-946d-b5370ef944ae" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DEC_GEN_Corpse_Rose_Left_Mesh.4" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="58f11017-9fc6-4757-946d-b5370ef944ae" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine_Top.DEC_GEN_Corpse_Rose_Right_Mesh.5" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
