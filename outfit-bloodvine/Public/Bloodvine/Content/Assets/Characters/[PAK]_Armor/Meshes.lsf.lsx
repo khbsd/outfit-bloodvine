@@ -73,10 +73,17 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_ARM_Bloodvine.HUM_F_ARM_Orin_Unlewd_Mesh.7" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<!--<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Thighs" />
 						</node>
 						<node id="VertexColorMaskSlots">
