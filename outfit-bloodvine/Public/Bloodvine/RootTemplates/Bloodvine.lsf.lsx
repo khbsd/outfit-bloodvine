@@ -75,7 +75,14 @@
 								<node id="Slot">
 									<attribute id="Object" type="FixedString" value="Body" />
 								</node>							
-								<node id="ParentRace" />				
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>				
 								<node id="Visuals">
 									<children>									
 										<node id="Object">
@@ -130,7 +137,14 @@
 								<node id="Slot">
 									<attribute id="Object" type="FixedString" value="Body" />
 								</node>							
-								<node id="ParentRace" />				
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>				
 								<node id="Visuals">
 									<children>									
 										<node id="Object">
@@ -184,7 +198,14 @@
 								<node id="Slot">
 									<attribute id="Object" type="FixedString" value="Body" />
 								</node>							
-								<node id="ParentRace" />				
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>				
 								<node id="Visuals">
 									<children>									
 										<node id="Object">
@@ -238,7 +259,14 @@
 								<node id="Slot">
 									<attribute id="Object" type="FixedString" value="Body" />
 								</node>							
-								<node id="ParentRace" />				
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>				
 								<node id="Visuals">
 									<children>									
 										<node id="Object">
@@ -256,7 +284,7 @@
 											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="a6ff0cdd-878d-4a99-b44e-053a89c0dfed" /> 
+													<attribute id="Object" type="FixedString" value="709d8e8b-9d03-4c77-894e-4a8bf2f2c9fb" /> 
 												</node>
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="714dd3df-38c1-46c3-80f3-20d9b05a701f" />
