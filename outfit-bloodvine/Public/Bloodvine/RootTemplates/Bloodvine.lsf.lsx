@@ -7,7 +7,7 @@
 				<node id="GameObjects"> HUM_F_ARM_Bloodvine_Top
 					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineBase_Description" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineBase_DisplayName" version="2" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="HUM_F_ARM_Bloodvine_Top" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
+					<attribute id="Icon" type="FixedString" value="Bloodvine_Icon" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="5bc0b178-7d43-4fa5-a933-2e24e714727f" /> Same UUID as in Armor.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_Base" /> Same as Stats
@@ -56,7 +56,7 @@
 				<node id="GameObjects"> HUM_F_ARM_Bloodvine_Top
 					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineStage1_Description" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineStage1_DisplayName" version="2" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="HUM_F_ARM_Bloodvine_Top" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
+					<attribute id="Icon" type="FixedString" value="Bloodvine_Icon" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="479124a6-c09a-46f0-9539-e4913d76b885" /> Same UUID as in Armor.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_1" /> Same as Stats
@@ -118,7 +118,7 @@
 				<node id="GameObjects"> HUM_F_ARM_Bloodvine_Top
 					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineStage2_Description" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineStage2_DisplayName" version="2" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="HUM_F_ARM_Bloodvine_Top" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
+					<attribute id="Icon" type="FixedString" value="Bloodvine_Icon" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="9f7df976-0f67-46ae-8fb5-ad7937dc57e5" /> Same UUID as in Armor.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_2" /> Same as Stats
@@ -177,9 +177,9 @@
 					</children>
 				</node>	
 				<node id="GameObjects"> HUM_F_ARM_Bloodvine_Top
-					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineStage3_DisplayName" version="1" /> Points to Localization xml file. Generate new handle
-					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineStage3_Description" version="2" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="HUM_F_ARM_Bloodvine_Top" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
+					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineStage3_Description" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineStage3_DisplayName" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="Icon" type="FixedString" value="Bloodvine_Icon" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="f1588917-5545-4b8f-8c1a-203bf3b49bec" /> Same UUID as in Armor.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_3" /> Same as Stats
@@ -240,7 +240,7 @@
 				<node id="GameObjects"> HUM_F_ARM_Bloodvine_Top
 					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineStage4_Description" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineStage4_DisplayName" version="2" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="HUM_F_ARM_Bloodvine_Top" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
+					<attribute id="Icon" type="FixedString" value="Bloodvine_Icon" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="68641d83-78c7-4113-bbbb-925a653c9efb" /> Same UUID as in Armor.txt. Generate new UUID
 					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_4" /> Same as Stats
