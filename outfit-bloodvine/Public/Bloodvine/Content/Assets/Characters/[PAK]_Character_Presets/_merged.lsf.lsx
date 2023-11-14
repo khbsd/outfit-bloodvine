@@ -1,135 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="7" build="2" />
+	<version major="4" minor="0" revision="7" build="2" lslib_meta="v1,bswap_guids" />
 	<region id="ColorPresetBank">
 		<node id="ColorPresetBank">
-			<children> ColorPreset should be always used if you want to apply the exact same colors on multiple armor, or you want to keep the RootTemplate file a bit shorter.
+			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="e305bc63-cd22-4090-8b26-3aa0562aa041" /> This ID is used in MaterialPresetResource
-					<attribute id="Name" type="LSString" value="S3M_Colors_S3M_Armor_StuddedLeather_1A" /> Name is not used, it is just for convenience
+					<attribute id="ID" type="FixedString" value="e305bc63-cd22-4090-8b26-3aa0562aa041" />
+					<attribute id="Name" type="LSString" value="S3M_Colors_S3M_Armor_StuddedLeather_1A" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725663" />
-					<!--<children>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" /> Should always be True
-							<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" /> RGB colors in decimals.
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>		
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Accent_Color" />
-							<attribute id="Value" type="fvec3" value="1 1 1" /> 1 1 1 applies no color to the texture. It is most often used to signify that this Parameter isn't used,
-						</node>						
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Custom_1" /> but on occasion it is used if the texture has some fully colored parts, like an emblem or something similar.
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Custom_2" />
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Color_01" /> Usually used only in underwear.
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Color_02" /> Usually used only in underwear.
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Color_03" /> Usually used only in underwear.
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>							
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Secondary_Color" /> Very rarely used.
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>			
-						<node id="ColorPreset">
-							<attribute id="Color" type="bool" value="False" />
-							<attribute id="Custom" type="bool" value="False" />
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="Parameter" type="FixedString" value="Tertiary_Color" /> Very rarely used.
-							<attribute id="Value" type="fvec3" value="1 1 1" />
-						</node>						
-					</children>-->	
-				</node>				
+				</node>
 			</children>
 		</node>
 	</region>

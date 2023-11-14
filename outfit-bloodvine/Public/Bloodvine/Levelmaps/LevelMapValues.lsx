@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2"/>
+                    <attribute id="Level6" type="LSString" value="3"/>
+                    <attribute id="Level12" type="LSString" value="5"/>
+                    <attribute id="Name" type="FixedString" value="VineWhipScaling"/>
+                    <attribute id="UUID" type="guid" value="f46b5899-cc47-4ac0-8243-004e34f3399a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

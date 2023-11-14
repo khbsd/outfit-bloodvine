@@ -1,0 +1,8 @@
+function getCharLevelDividedBy(entity, divisor)
+    entity = entity or context.Source
+    return entity.level / divisor
+end
+
+function returnThree()
+    return 3
+end

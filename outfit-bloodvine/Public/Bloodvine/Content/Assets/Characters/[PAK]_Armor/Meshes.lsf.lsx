@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="4" build="602" />	
+	<version major="4" minor="0" revision="4" build="602" lslib_meta="v1,bswap_guids" />
 	<region id="VisualBank">
 		<node id="VisualBank">
-			<children>			
+			<children>
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -80,39 +80,9 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-						<!--<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Thighs" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="knees" />
-						</node>				
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Private_Parts" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
-						</node>					
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Torso" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="lowerarm" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Shoulders" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
-						</node>
-						<node id="VertexColorMaskSlots">
-							<attribute id="Object" type="FixedString" value="Nipple Covers" />
-						</node>	-->	
 					</children>
-				</node>			
-				<node id="Resource"> HUM_F_ARM_Bloodvine_Top_1
+				</node>
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -188,10 +158,9 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-							
 					</children>
-				</node>							
-			<node id="Resource"> HUM_F_ARM_Bloodvine_Top_2
+				</node>
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -267,10 +236,9 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-							
 					</children>
-				</node>							
-			<node id="Resource"> HUM_F_ARM_Bloodvine_Top_3
+				</node>
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -346,10 +314,9 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-							
 					</children>
-				</node>							
-			<node id="Resource"> HUM_F_ARM_Bloodvine_Top_4
+				</node>
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -425,10 +392,9 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-							
 					</children>
-				</node>							
+				</node>
 			</children>
 		</node>
-	</region>	
+	</region>
 </save>

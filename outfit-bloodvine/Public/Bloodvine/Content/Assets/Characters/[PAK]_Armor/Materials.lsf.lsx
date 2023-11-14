@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="8" build="613" />
-    <region id="MaterialBank">
+	<version major="4" minor="0" revision="8" build="613" lslib_meta="v1,bswap_guids" />
+	<region id="MaterialBank">
 		<node id="MaterialBank">
 			<children>
-                <node id="Resource"> Dryad_Corset
+				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
 					<attribute id="MaterialType" type="uint8" value="13" />
@@ -71,7 +71,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="605ff04f-c04c-454b-a846-1ef359fc725a" /> _NM
+							<attribute id="ID" type="FixedString" value="605ff04f-c04c-454b-a846-1ef359fc725a" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_normalmap_DefaultWrapSampler" />
 							<children>
@@ -119,11 +119,11 @@
 								</node>
 							</children>
 						</node>
-						<node id="Texture2DParameters"> 
+						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="d1a478bb-e377-40fd-b722-e3805189b610" /> _PM
+							<attribute id="ID" type="FixedString" value="d1a478bb-e377-40fd-b722-e3805189b610" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_physicalmap_DefaultWrapSampler" />
 							<children>
@@ -175,7 +175,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="af81613b-2301-4d03-bef5-b03306682324" /> _BM
+							<attribute id="ID" type="FixedString" value="af81613b-2301-4d03-bef5-b03306682324" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_basecolor_DefaultWrapSampler" />
 							<children>
@@ -223,13 +223,6 @@
 								</node>
 							</children>
 						</node>
-						<!--<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="" /> _MSKcloth
-							<attribute id="ParameterName" type="FixedString" value="MSKColor" />
-						</node>-->	
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
 							<attribute id="Enabled" type="bool" value="True" />
@@ -358,7 +351,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Orin_Body
+				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
 					<attribute id="MaterialType" type="uint8" value="13" />
@@ -425,7 +418,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b1db8deb-8369-42f9-8b6f-3663c006cfc3" /> _NM
+							<attribute id="ID" type="FixedString" value="b1db8deb-8369-42f9-8b6f-3663c006cfc3" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_normalmap_DefaultWrapSampler" />
 							<children>
@@ -473,11 +466,11 @@
 								</node>
 							</children>
 						</node>
-						<node id="Texture2DParameters"> 
+						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="cd631f60-25d3-4bfe-bb8c-d97baba04386" /> _PM
+							<attribute id="ID" type="FixedString" value="cd631f60-25d3-4bfe-bb8c-d97baba04386" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_physicalmap_DefaultWrapSampler" />
 							<children>
@@ -529,7 +522,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="00499b35-cec4-402b-bcdb-7ceab3999670" /> _BM
+							<attribute id="ID" type="FixedString" value="00499b35-cec4-402b-bcdb-7ceab3999670" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_basecolor_DefaultWrapSampler" />
 							<children>
@@ -712,7 +705,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Corpse_Rose
+				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="58f11017-9fc6-4757-946d-b5370ef944ae" />
 					<attribute id="MaterialType" type="uint8" value="13" />
@@ -779,7 +772,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="81b01a72-a6ec-4b9e-9d3d-e93525849762" /> _NM
+							<attribute id="ID" type="FixedString" value="81b01a72-a6ec-4b9e-9d3d-e93525849762" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_normalmap_DefaultWrapSampler" />
 							<children>
@@ -827,11 +820,11 @@
 								</node>
 							</children>
 						</node>
-						<node id="Texture2DParameters"> 
+						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="33963b30-3e77-4f5d-b7ca-d44a93597010" /> _PM
+							<attribute id="ID" type="FixedString" value="33963b30-3e77-4f5d-b7ca-d44a93597010" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_physicalmap_DefaultWrapSampler" />
 							<children>
@@ -883,7 +876,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="4bba73e6-4d43-49e9-bcb3-f9fc3e743a1d" /> _BM
+							<attribute id="ID" type="FixedString" value="4bba73e6-4d43-49e9-bcb3-f9fc3e743a1d" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_basecolor_DefaultWrapSampler" />
 							<children>
@@ -931,13 +924,6 @@
 								</node>
 							</children>
 						</node>
-						<!--<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="" /> _MSKcloth
-							<attribute id="ParameterName" type="FixedString" value="MSKColor" />
-						</node>-->
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
 							<attribute id="Enabled" type="bool" value="True" />
@@ -1066,7 +1052,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Dryad_Leaves
+				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
 					<attribute id="MaterialType" type="uint8" value="13" />
@@ -1133,7 +1119,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="497e772b-7f9c-4ab4-a36a-e48e867a234d" /> _NM
+							<attribute id="ID" type="FixedString" value="497e772b-7f9c-4ab4-a36a-e48e867a234d" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_normalmap_DefaultWrapSampler" />
 							<children>
@@ -1181,11 +1167,11 @@
 								</node>
 							</children>
 						</node>
-						<node id="Texture2DParameters"> 
+						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="2cd02d34-31ac-4cf6-9e3b-79f47467eefb" /> _PM
+							<attribute id="ID" type="FixedString" value="2cd02d34-31ac-4cf6-9e3b-79f47467eefb" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_physicalmap_DefaultWrapSampler" />
 							<children>
@@ -1237,7 +1223,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="dcafb8e0-c244-42d4-9be0-6bd1057f2946" /> _BM
+							<attribute id="ID" type="FixedString" value="dcafb8e0-c244-42d4-9be0-6bd1057f2946" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_basecolor_DefaultWrapSampler" />
 							<children>
@@ -1285,13 +1271,6 @@
 								</node>
 							</children>
 						</node>
-						<!--<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="" /> _MSKcloth
-							<attribute id="ParameterName" type="FixedString" value="MSKColor" />
-						</node>	-->			
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
 							<attribute id="Enabled" type="bool" value="True" />
@@ -1420,7 +1399,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Dryad_Skirt
+				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="45616ac5-c429-4b51-a1fc-b2a02f3269f0" />
 					<attribute id="MaterialType" type="uint8" value="13" />
@@ -1487,7 +1466,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="344fd5cb-87dc-4aec-a7db-1d23623ac0e4" /> _NM
+							<attribute id="ID" type="FixedString" value="344fd5cb-87dc-4aec-a7db-1d23623ac0e4" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_normalmap_DefaultWrapSampler" />
 							<children>
@@ -1535,11 +1514,11 @@
 								</node>
 							</children>
 						</node>
-						<node id="Texture2DParameters"> 
+						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="99ac4975-cdce-4cbb-87fb-7c5d5aacb5e8" /> _PM
+							<attribute id="ID" type="FixedString" value="99ac4975-cdce-4cbb-87fb-7c5d5aacb5e8" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_physicalmap_DefaultWrapSampler" />
 							<children>
@@ -1591,7 +1570,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="6473d269-339b-4f34-90fa-b83188a90cbd" /> _BM
+							<attribute id="ID" type="FixedString" value="6473d269-339b-4f34-90fa-b83188a90cbd" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_basecolor_DefaultWrapSampler" />
 							<children>
@@ -1639,13 +1618,6 @@
 								</node>
 							</children>
 						</node>
-						<!--<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="" /> _MSKcloth
-							<attribute id="ParameterName" type="FixedString" value="MSKColor" />
-						</node>-->	
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
 							<attribute id="Enabled" type="bool" value="True" />
@@ -1774,7 +1746,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Orin_Pants
+				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="0cccea8f-090d-4ff6-b31e-94688da1896f" />
 					<attribute id="MaterialType" type="uint8" value="13" />
@@ -1841,7 +1813,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="ba5ec073-89ca-4482-abb7-d88b1cbe19f1" /> _NM
+							<attribute id="ID" type="FixedString" value="ba5ec073-89ca-4482-abb7-d88b1cbe19f1" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_normalmap_DefaultWrapSampler" />
 							<children>
@@ -1889,11 +1861,11 @@
 								</node>
 							</children>
 						</node>
-						<node id="Texture2DParameters"> 
+						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="bad8a14b-8dfa-4e44-8bea-a5682e250a25" /> _PM
+							<attribute id="ID" type="FixedString" value="bad8a14b-8dfa-4e44-8bea-a5682e250a25" />
 							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_physicalmap_DefaultWrapSampler" />
 							<children>
@@ -1945,7 +1917,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="79755b20-d6e6-4ec1-8920-5b3bfa68f99a" /> _BM
+							<attribute id="ID" type="FixedString" value="79755b20-d6e6-4ec1-8920-5b3bfa68f99a" />
 							<attribute id="ParameterName" type="FixedString" value="basecolor" />
 							<attribute id="UniformName" type="FixedString" value="Texture2DParameter_basecolor_DefaultWrapSampler" />
 							<children>
@@ -1997,7 +1969,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b3a88d61-493d-41c7-bc98-1e0b012a3df9" /> 
+							<attribute id="ID" type="FixedString" value="b3a88d61-493d-41c7-bc98-1e0b012a3df9" />
 							<attribute id="ParameterName" type="FixedString" value="MSKColor" />
 						</node>
 						<node id="Vector3Parameters">
@@ -2128,45 +2100,17 @@
 						</node>
 					</children>
 				</node>
-		    </children>
-		</node>		
-    </region>			
-    <region id="TextureBank">
+			</children>
+		</node>
+	</region>
+	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
-				<node id="Resource"> Dryad_Corset
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Dryad_NormalMap" />
 					<attribute id="ID" type="FixedString" value="605ff04f-c04c-454b-a846-1ef359fc725a" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Top_Dryad_NormalMap.DDS" />
-					<attribute id="Format" type="uint32" value="64" /> 
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Dryad_BaseColor" />
-					<attribute id="ID" type="FixedString" value="af81613b-2301-4d03-bef5-b03306682324" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Top_Dryad_BaseColor.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="Height" type="int32" value="1024" />
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Dryad_PhysicalMap" />
-					<attribute id="ID" type="FixedString" value="d1a478bb-e377-40fd-b722-e3805189b610" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Top_Dryad_PhysicalMap.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="64" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2176,25 +2120,11 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Orin_Body 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Orin_NormalMap" />
-					<attribute id="ID" type="FixedString" value="b1db8deb-8369-42f9-8b6f-3663c006cfc3" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Top_Orin_NormalMap.DDS" />
-					<attribute id="Format" type="uint32" value="64" /> 
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Orin_BaseColor" />
-					<attribute id="ID" type="FixedString" value="00499b35-cec4-402b-bcdb-7ceab3999670" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Top_Orin_BaseColor.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Dryad_BaseColor" />
+					<attribute id="ID" type="FixedString" value="af81613b-2301-4d03-bef5-b03306682324" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Top_Dryad_BaseColor.DDS" />
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2203,12 +2133,54 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
+				</node>
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Dryad_PhysicalMap" />
+					<attribute id="ID" type="FixedString" value="d1a478bb-e377-40fd-b722-e3805189b610" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Top_Dryad_PhysicalMap.DDS" />
+					<attribute id="Format" type="uint32" value="62" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Orin_NormalMap" />
+					<attribute id="ID" type="FixedString" value="b1db8deb-8369-42f9-8b6f-3663c006cfc3" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Top_Orin_NormalMap.DDS" />
+					<attribute id="Format" type="uint32" value="64" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Orin_BaseColor" />
+					<attribute id="ID" type="FixedString" value="00499b35-cec4-402b-bcdb-7ceab3999670" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Top_Orin_BaseColor.DDS" />
+					<attribute id="Format" type="uint32" value="62" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Orin_PhysicalMap" />
 					<attribute id="ID" type="FixedString" value="cd631f60-25d3-4bfe-bb8c-d97baba04386" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Top_Orin_PhysicalMap.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2220,7 +2192,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_Orin_MSKCloth" />
-					<attribute id="ID" type="FixedString" value="cce87ae6-b26c-4097-b7ab-2f0619b5a833" />					
+					<attribute id="ID" type="FixedString" value="cce87ae6-b26c-4097-b7ab-2f0619b5a833" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Top_Orin_MSKCloth.DDS" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="Height" type="int32" value="2048" />
@@ -2229,12 +2201,12 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>	
-				<node id="Resource"> Corpse_Rose 
+				</node>
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_CorpseRose_NormalMap" />
 					<attribute id="ID" type="FixedString" value="81b01a72-a6ec-4b9e-9d3d-e93525849762" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\corpse_rose\HUM_F_ARM_Bloodvine_Top_CorpseRose_NormalMap.DDS" />
-					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Format" type="uint32" value="64" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2243,12 +2215,12 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
+				</node>
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_CorpseRose_BaseColor" />
 					<attribute id="ID" type="FixedString" value="4bba73e6-4d43-49e9-bcb3-f9fc3e743a1d" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\corpse_rose\HUM_F_ARM_Bloodvine_Top_CorpseRose_BaseColor.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2257,12 +2229,12 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
+				</node>
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Top_CorpseRose_PhysicalMap" />
 					<attribute id="ID" type="FixedString" value="33963b30-3e77-4f5d-b7ca-d44a93597010" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\corpse_rose\HUM_F_ARM_Bloodvine_Top_CorpseRose_PhysicalMap.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2272,11 +2244,11 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dryad_Leaves 
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Leaves_Dryad_NormalMap" />
 					<attribute id="ID" type="FixedString" value="497e772b-7f9c-4ab4-a36a-e48e867a234d" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Leaves_Dryad_NormalMap.DDS" />
-					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Format" type="uint32" value="64" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2285,12 +2257,12 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
+				</node>
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Leaves_Dryad_BaseColor" />
 					<attribute id="ID" type="FixedString" value="dcafb8e0-c244-42d4-9be0-6bd1057f2946" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Leaves_Dryad_BaseColor.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2299,12 +2271,12 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
+				</node>
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Leaves_Dryad_PhysicalMap" />
 					<attribute id="ID" type="FixedString" value="2cd02d34-31ac-4cf6-9e3b-79f47467eefb" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Leaves_Dryad_PhysicalMap.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2314,39 +2286,11 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dryad_Skirt
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Dryad_NormalMap" />
 					<attribute id="ID" type="FixedString" value="344fd5cb-87dc-4aec-a7db-1d23623ac0e4" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Bottom_Dryad_NormalMap.DDS" />
-					<attribute id="Format" type="uint32" value="64" /> 
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Dryad_BaseColor" />
-					<attribute id="ID" type="FixedString" value="6473d269-339b-4f34-90fa-b83188a90cbd" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Bottom_Dryad_BaseColor.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="Height" type="int32" value="1024" />
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Dryad_PhysicalMap" />
-					<attribute id="ID" type="FixedString" value="99ac4975-cdce-4cbb-87fb-7c5d5aacb5e8" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Bottom_Dryad_PhysicalMap.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="64" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2356,25 +2300,11 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Orin_Pants 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Orin_NormalMap" />
-					<attribute id="ID" type="FixedString" value="ba5ec073-89ca-4482-abb7-d88b1cbe19f1" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Bottom_Orin_NormalMap.DDS" />
-					<attribute id="Format" type="uint32" value="64" /> 
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
-					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Orin_BaseColor" />
-					<attribute id="ID" type="FixedString" value="79755b20-d6e6-4ec1-8920-5b3bfa68f99a" />
-					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Bottom_Orin_BaseColor.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Dryad_BaseColor" />
+					<attribute id="ID" type="FixedString" value="6473d269-339b-4f34-90fa-b83188a90cbd" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Bottom_Dryad_BaseColor.DDS" />
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2383,12 +2313,54 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>				
-				<node id="Resource"> 
+				</node>
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Dryad_PhysicalMap" />
+					<attribute id="ID" type="FixedString" value="99ac4975-cdce-4cbb-87fb-7c5d5aacb5e8" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\dryad\HUM_F_ARM_Bloodvine_Bottom_Dryad_PhysicalMap.DDS" />
+					<attribute id="Format" type="uint32" value="62" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Orin_NormalMap" />
+					<attribute id="ID" type="FixedString" value="ba5ec073-89ca-4482-abb7-d88b1cbe19f1" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Bottom_Orin_NormalMap.DDS" />
+					<attribute id="Format" type="uint32" value="64" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Orin_BaseColor" />
+					<attribute id="ID" type="FixedString" value="79755b20-d6e6-4ec1-8920-5b3bfa68f99a" />
+					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Bottom_Orin_BaseColor.DDS" />
+					<attribute id="Format" type="uint32" value="62" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Orin_PhysicalMap" />
 					<attribute id="ID" type="FixedString" value="bad8a14b-8dfa-4e44-8bea-a5682e250a25" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Bottom_Orin_PhysicalMap.DDS" />
-					<attribute id="Format" type="uint32" value="62" /> 
+					<attribute id="Format" type="uint32" value="62" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="Depth" type="int32" value="1" />
@@ -2400,7 +2372,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="Name" type="LSString" value="HUM_F_ARM_Bloodvine_Bottom_Orin_MSKCloth" />
-					<attribute id="ID" type="FixedString" value="b3a88d61-493d-41c7-bc98-1e0b012a3df9" />					
+					<attribute id="ID" type="FixedString" value="b3a88d61-493d-41c7-bc98-1e0b012a3df9" />
 					<attribute id="SourceFile" type="LSString" value="Generated\Public\Bloodvine\Assets\Characters\_Models\Humans\_Female\Resources\Textures\orin\HUM_F_ARM_Bloodvine_Bottom_Orin_MSKCloth.DDS" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="Height" type="int32" value="2048" />
@@ -2409,9 +2381,8 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
-				</node>	
+				</node>
 			</children>
 		</node>
 	</region>
-	
 </save>
