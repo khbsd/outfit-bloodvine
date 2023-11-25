@@ -2,7 +2,7 @@ new entry "KHB_NecroticPiercing_Base"
 type "PassiveData"
 data "DisplayName" "KHB_necroticPiercing_DisplayName"
 data "Description" "KHB_necroticPiercingBase_Description"
-data "Icon" "GenericIcon_DamageType_Icon"
+data "Icon" "GenericIcon_DamageType_Necrotic"
 data "Boosts" "IgnoreResistance(Necrotic,Resistant)"
 
 new entry "KHB_NecroticPiercing_Final"
