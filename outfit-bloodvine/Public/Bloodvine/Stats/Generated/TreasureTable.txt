@@ -10,8 +10,10 @@ new subtable "1,1"
 object category "I_KHB_Armor_Bloodvine_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KHB_Armor_Bloodvine_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KHB_Armor_Bloodvine_BaseSpells",1,0,0,0,0,0,0,0
 
-new treasuretable "TUT_Chest_Potions"
+new treasuretable "TUT_Chest_Potions" 
 CanMerge 1
 new subtable "1,1"
 object category "I_KHB_Armor_Bloodvine_Base",1,0,0,0,0,0,0,0
@@ -23,5 +25,7 @@ new subtable "1,1"
 object category "I_KHB_Armor_Bloodvine_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KHB_Armor_Bloodvine_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KHB_Armor_Bloodvine_BaseSpells",1,0,0,0,0,0,0,0
 
 
