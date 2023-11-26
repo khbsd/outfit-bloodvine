@@ -15,7 +15,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="3a25775a-3c2a-406b-abf9-0464ec89c1c1" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_Top" />
+					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Top" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -23,9 +23,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_Basis.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_Basis.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_Basis.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_Basis.Dummy_Root.0" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
@@ -34,35 +34,35 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_Basis.ARM_Orin_Body.1" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Basis.ARM_Orin_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_Basis.DRYAD_F_Corset.2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Basis.DRYAD_F_Corset.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_Basis.DRYAD_F_Leaves_Top.3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Basis.DRYAD_F_Leaves_Top.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0cccea8f-090d-4ff6-b31e-94688da1896f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_Basis.ARM_Orin_Pants.4" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Basis.ARM_Orin_Pants.4" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="45616ac5-c429-4b51-a1fc-b2a02f3269f0" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_Basis.DRYAD_F_Skirt.5" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Basis.DRYAD_F_Skirt.5" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -93,7 +93,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="f1db0253-4366-47cf-9440-d3019ce3cee6" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_Top_1" />
+					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Top_1" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -101,9 +101,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_1.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_1.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_1.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_1.Dummy_Root.0" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
@@ -112,49 +112,49 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_1.ARM_Orin_Body.1" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_1.ARM_Orin_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_1.DRYAD_F_Corset.2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_1.DRYAD_F_Corset.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_1.DRYAD_F_Leaves_Top.3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_1.DRYAD_F_Leaves_Top.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0cccea8f-090d-4ff6-b31e-94688da1896f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_1.ARM_Orin_Pants.4" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_1.ARM_Orin_Pants.4" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="45616ac5-c429-4b51-a1fc-b2a02f3269f0" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_1.DRYAD_F_Skirt.5" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_1.DRYAD_F_Skirt.5" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_1.DRYAD_F_Leaves_Bottom.6" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_1.DRYAD_F_Leaves_Bottom.6" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_1.ARM_Orin_Unlewd.7" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_1.ARM_Orin_Unlewd.7" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -171,7 +171,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="c79dced9-4037-49ff-901f-4b5a8d48fb7b" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_Top_2" />
+					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Top_2" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -179,9 +179,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_2.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_2.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_2.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_2.Dummy_Root.0" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
@@ -190,49 +190,49 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_2.ARM_Orin_Body.1" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_2.ARM_Orin_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_2.DRYAD_F_Corset.2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_2.DRYAD_F_Corset.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_2.DRYAD_F_Leaves_Top.3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_2.DRYAD_F_Leaves_Top.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0cccea8f-090d-4ff6-b31e-94688da1896f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_2.ARM_Orin_Pants.4" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_2.ARM_Orin_Pants.4" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="45616ac5-c429-4b51-a1fc-b2a02f3269f0" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_2.DRYAD_F_Skirt.5" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_2.DRYAD_F_Skirt.5" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_2.DRYAD_F_Leaves_Bottom.6" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_2.DRYAD_F_Leaves_Bottom.6" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_2.ARM_Orin_Unlewd.7" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_2.ARM_Orin_Unlewd.7" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -249,7 +249,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="cc47f78f-d82e-4095-839d-61c6bda67447" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_Top_3" />
+					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Top_3" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -257,9 +257,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_3.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_3.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_3.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_3.Dummy_Root.0" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
@@ -268,49 +268,49 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_3.ARM_Orin_Body.1" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_3.ARM_Orin_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_3.DRYAD_F_Corset.2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_3.DRYAD_F_Corset.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_3.DRYAD_F_Leaves_Top.3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_3.DRYAD_F_Leaves_Top.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0cccea8f-090d-4ff6-b31e-94688da1896f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_3.ARM_Orin_Pants.4" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_3.ARM_Orin_Pants.4" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="45616ac5-c429-4b51-a1fc-b2a02f3269f0" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_3.DRYAD_F_Skirt.5" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_3.DRYAD_F_Skirt.5" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_3.DRYAD_F_Leaves_Bottom.6" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_3.DRYAD_F_Leaves_Bottom.6" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_3.ARM_Orin_Unlewd.7" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_3.ARM_Orin_Unlewd.7" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -327,7 +327,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="ec13992a-a80e-4f88-abce-d60870f7d3ae" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_Top_4" />
+					<attribute id="Name" type="LSString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_Top_4" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -335,9 +335,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_4.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_4.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_4.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Bloodvine/Assets/Characters/_Models/Humans/_Female/Resources/exported/HUM_FS_ARM_Bloodvine_NoUnderwear_4.Dummy_Root.0" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
@@ -346,49 +346,49 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_4.ARM_Orin_Body.1" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_4.ARM_Orin_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="64414756-f743-4444-9c56-f4a48b4bc80a" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_4.DRYAD_F_Corset.2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_4.DRYAD_F_Corset.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_4.DRYAD_F_Leaves_Top.3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_4.DRYAD_F_Leaves_Top.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0cccea8f-090d-4ff6-b31e-94688da1896f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_4.ARM_Orin_Pants.4" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_4.ARM_Orin_Pants.4" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="45616ac5-c429-4b51-a1fc-b2a02f3269f0" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_4.DRYAD_F_Skirt.5" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_4.DRYAD_F_Skirt.5" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="386fb8cd-04ca-4873-9740-f26ea733f454" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_4.DRYAD_F_Leaves_Bottom.6" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_4.DRYAD_F_Leaves_Bottom.6" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0902d245-8481-40be-80dd-75ba36c63380" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_4.ARM_Orin_Unlewd.7" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_FS_ARM_Bloodvine_NoUnderwear_4.ARM_Orin_Unlewd.7" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
