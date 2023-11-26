@@ -27,6 +27,9 @@
   <content contentuid="KHB_bineBastion_DisplayName" version="1">Bine Bastion</content>
 	<content contentuid="KHB_bineBastionBase_Description" version="1">Your v(e)iny carapace reduces all incoming damage by half your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
   <content contentuid="KHB_bineBastionFinal_Description" version="1">Your v(e)iny carapace reduces all incoming damage by your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
-  
+
+  <!--Container-->
+  <content contentuid="KHB_Box_O_Seeds_DisplayName" version="1">Box 'O Seeds</content>
+  <content contentuid="KHB_Box_O_Seeds_Description" version="1">Just a rusty, dusty box with lusty, busty seeds...</content>
 
 </contentList>

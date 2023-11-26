@@ -1,4 +1,4 @@
-new treasuretable "DEN_Entrance_Trade"
+new treasuretable "KHB_TT_Box_O_Seeds"
 CanMerge 1
 new subtable "1,1"
 object category "I_KHB_Armor_Bloodvine_Base",1,0,0,0,0,0,0,0
@@ -13,19 +13,14 @@ object category "I_KHB_Armor_Bloodvine_4",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KHB_Armor_Bloodvine_BaseSpells",1,0,0,0,0,0,0,0
 
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_KHB_OBJ_Box_O_Seeds",1,0,0,0,0,0,0,0
+
 new treasuretable "TUT_Chest_Potions" 
 CanMerge 1
 new subtable "1,1"
-object category "I_KHB_Armor_Bloodvine_Base",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_KHB_Armor_Bloodvine_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_KHB_Armor_Bloodvine_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_KHB_Armor_Bloodvine_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_KHB_Armor_Bloodvine_4",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_KHB_Armor_Bloodvine_BaseSpells",1,0,0,0,0,0,0,0
+object category "I_KHB_OBJ_Box_O_Seeds",1,0,0,0,0,0,0,0
 
 

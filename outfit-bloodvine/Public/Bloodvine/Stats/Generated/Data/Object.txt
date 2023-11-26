@@ -1,0 +1,7 @@
+new entry "KHB_OBJ_Box_O_Seeds"
+type "Object"
+using "OBJ_Bag"
+data "RootTemplate" "54ad1a4f-e9a4-486f-a240-2e9a8e3eea91"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Legendary"
