@@ -55,17 +55,17 @@
 					</children>
 				</node>	
 				<node id="GameObjects"> HUM_F_ARM_Bloodvine_Top
-					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineBase_Description" version="1" /> Points to Localization xml file. Generate new handle
-					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineBase_DisplayName" version="2" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="Bloodvine_Icon" /> Name your icon. This name will be used in the icon's MapKey in Icons_Items.lsx and for the tooltip icon DDS file
+					<attribute id="Description" type="TranslatedString" handle="KHB_BloodvineBase_Description" version="1" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="KHB_BloodvineBase_DisplayName" version="2" /> 
+					<attribute id="Icon" type="FixedString" value="Bloodvine_Icon" /> 
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="5bc0b178-7d43-4fa5-a933-2e24e714727f" /> Same UUID as in Armor.txt. Generate new UUID
-					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_Base" /> Same as Stats
-					<attribute id="ParentTemplateId" type="FixedString" value="e32488ea-f93d-4318-abe2-69070dc5e026" />	Points to ARM_Camp_Body.
+					<attribute id="MapKey" type="FixedString" value="5bc0b178-7d43-4fa5-a933-2e24e714727f" /> 
+					<attribute id="Name" type="LSString" value="KHB_Armor_Bloodvine_Base" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="e32488ea-f93d-4318-abe2-69070dc5e026" />	
 					<attribute id="ReadinessFlags" type="uint32" value="128" />					
-					<attribute id="Stats" type="FixedString" value="KHB_Armor_Bloodvine_Top" /> Stats for the Armor.txt					
+					<attribute id="Stats" type="FixedString" value="KHB_Armor_Bloodvine_Top" /> 					
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" /> Points to ARM_Camp_Body
+					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" /> 
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 					<children>
 						<node id="Equipment">
